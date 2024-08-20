@@ -4,14 +4,14 @@ NotDumbj/NotDumbj is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Muhammad Jibran</h1>
+<h1 align="center">Muhammad Jibran 💻</h1>
 <h3 align="center">An upcoming passionate software developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notdumbj&label=Profile%20views&color=0e75b6&style=flat" alt="notdumbj" /> </p>
 
 - 🔭 I’m currently studying **Software Engineering**
 
-- 🌱 I’m currently learning **C# and AI Models**
+- 🌱 I’m currently learning **C# and ML Models**
 
 - 👯 I’m looking to collaborate on **Game Development, Software Development,**
 
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://codepen.io/notdumbj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="notdumbj" height="30" width="40" /></a>
 <a href="https://twitter.com/mrchipsj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrchipsj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad jibran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad jibran" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-jibran-8802322a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad jibran" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24965221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24965221" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/notdumbj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="notdumbj" height="30" width="40" /></a>
 </p>
