@@ -1,38 +1,95 @@
+<!-- Banner Image with Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Muhammad%20Jibran&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20ML%20Enthusiast%20|%20Game%20Dev&descAlignY=55&descSize=20"/>
+</div>
 
-<!---
-NotDumbj/NotDumbj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Dynamic Typing Animation -->
+<div align="center">
+  <a href="https://github.com/notdumbj">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Upcoming+Software+Developer+from+Pakistan;BS+Software+Engineering+Student;Learning+C%23+%26+Machine+Learning;Building+Braille-to-Text+OCR" alt="Typing SVG" />
+  </a>
+</div>
 
-<h1 align="center">Muhammad Jibran 💻</h1>
-<h3 align="center">An upcoming passionate software developer from Pakistan</h3>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notdumbj&label=Profile%20views&color=0e75b6&style=flat" alt="notdumbj" /> </p>
+<!-- Terminal Style About Me -->
+### ⚡ `whoami`
 
-- 🔭 I’m currently studying **Software Engineering**
+```json
+{
+  "name": "Muhammad Jibran",
+  "location": "Islamabad, Pakistan",
+  "education": "BS Software Engineering @ Bahria University",
+  "passions": ["Software Development", "Machine Learning", "Game Development"],
+  "current_focus": ["C#", "ML Models", "Advanced System Architecture"],
+  "featured_project": "Braille-to-Text OCR system (Python, OpenCV, TensorFlow)",
+  "collaboration_interests": ["Open Source", "Game Dev", "Front-end Architecture"],
+  "contact": "mchips2000@gmail.com"
+}
+```
 
-- 🌱 I’m currently learning **C# and ML Models**
+<br/>
 
-- 👯 I’m looking to collaborate on **Game Development, Software Development,**
+### 🛠️ `tech_stack.exe`
 
-- 💬 Ask me about **C++, Java and front end development**
+<div align="center">
+  
+  **Languages** <br/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 
-- 📫 How to reach me **mchips2000@gmail.com**
+  <br/> **Frontend & Web** <br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/notdumbj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="notdumbj" height="30" width="40" /></a>
-<a href="https://twitter.com/mrchipsj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrchipsj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-jibran-8802322a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad jibran" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24965221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24965221" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/notdumbj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="notdumbj" height="30" width="40" /></a>
+  <br/> **Databases & Tools** <br/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
+</div>
+
+<br/>
+
+### 📊 `github_metrics.sh`
+
+<div align="center">
+  <a href="https://github.com/notdumbj">
+    <img src="https://github-readme-stats.shion.dev/api?username=notdumbj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="notdumbj stats" width="48%" />
+  </a>
+  <a href="https://github.com/notdumbj">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs?username=notdumbj&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" alt="notdumbj top langs" width="48%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/notdumbj">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=notdumbj&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+### 🤝 `connect_with_me`
+
+<div align="center">
+  <a href="https://linkedin.com/in/muhammad-jibran-8802322a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/mrchipsj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://stackoverflow.com/users/24965221"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
+  <a href="https://www.leetcode.com/notdumbj"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:mchips2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=notdumbj&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="notdumbj" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notdumbj&show_icons=true&locale=en&layout=compact" alt="notdumbj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notdumbj&show_icons=true&locale=en" alt="notdumbj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notdumbj&" alt="notdumbj" /></p>
