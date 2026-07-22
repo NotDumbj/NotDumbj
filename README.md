@@ -106,7 +106,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/notdumbj/notdumbj/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </div>
-<p align="center"><sub>Animated snake eating my contribution graph — auto-updates daily via GitHub Actions. Setup file included below.</sub></p>
+<p align="center"><sub>Animated snake eating my contribution graph — auto-updates daily via GitHub Actions.</sub></p>
 
 <br/>
 
