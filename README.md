@@ -43,35 +43,36 @@
 <div align="center">
 <table>
 <tr>
-<td>
+<td align="center" width="50%">
   <a href="https://github.com/LCEWS/PestiScope">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=LCEWS&repo=PestiScope&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=LCEWS&repo=PestiScope&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" height="195" />
   </a>
 </td>
-<td>
+<td align="center" width="50%">
   <a href="https://github.com/CharlieFour/ChainFlow">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=CharlieFour&repo=ChainFlow&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=CharlieFour&repo=ChainFlow&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" height="195" />
   </a>
 </td>
 </tr>
 <tr>
-<td>
+<td align="center" width="50%">
   <a href="https://github.com/CharlieFour/Vendeta">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=CharlieFour&repo=Vendeta&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=CharlieFour&repo=Vendeta&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" height="195" />
   </a>
 </td>
-<td>
+<td align="center" width="50%">
   <a href="https://github.com/CharlieFour/Peek">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=CharlieFour&repo=Peek&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=CharlieFour&repo=Peek&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" height="195" />
   </a>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td align="center" width="50%">
   <a href="https://github.com/notdumbj/Wonderland">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=notdumbj&repo=Wonderland&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=notdumbj&repo=Wonderland&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" height="195" />
   </a>
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 </div>
@@ -90,7 +91,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=notdumbj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=notdumbj&theme=tokyonight&row=1&column=6&margin-w=8&margin-h=8" />
 </div>
 
 <br/>
