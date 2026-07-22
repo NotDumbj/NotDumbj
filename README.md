@@ -1,10 +1,10 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Muhammad%20Jibran&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI-Integrated%20Systems%20Developer&descAlignY=55&descSize=17&descColor=b8b8ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Muhammad%20Jibran&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20AI-Integrated%20Systems%20Developer&descAlignY=55&descSize=17&descColor=64ffda"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=B8B8FF&center=true&vCenter=true&width=600&lines=building+with+react+%2B+fastapi+%2B+.net;shipping+a+networked+godot+fighting+game;interning+%40+flyrank+ai+and+neurofive" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=600&lines=building+with+react+%2B+fastapi+%2B+.net;shipping+a+networked+godot+fighting+game;interning+%40+flyrank+ai+and+neurofive" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -12,26 +12,19 @@
 <!-- Terminal-style about card -->
 <div align="center">
 
-<table>
-<tr><td>
-
 ```
-┌──────────────────────────────────────────────┐
-│  jibran@dev-machine  ~                        │
-├──────────────────────────────────────────────┤
++----------------------------------------------------------+
+| jibran@dev-machine  ~                                    |
++----------------------------------------------------------+
+| whoami    -> Muhammad Jibran                             |
+| base      -> Pakistan                                    |
+| study     -> BS Software Engineering @ Bahria University |
+| now       -> Front-end AI @ FlyRank AI                   |
+|              ML Fundamentals @ NeuroFive                 |
+| stack     -> React / TypeScript / FastAPI / .NET / Godot |
+| grinding  -> DSA & LeetCode, daily                       |
++----------------------------------------------------------+
 ```
-&nbsp;&nbsp;**whoami**&nbsp;&nbsp;→&nbsp;&nbsp;Muhammad Jibran<br/>
-&nbsp;&nbsp;**base**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;Pakistan<br/>
-&nbsp;&nbsp;**study**&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;BS Software Engineering @ Bahria University<br/>
-&nbsp;&nbsp;**now**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;Front-end AI @ FlyRank AI · ML Fundamentals @ NeuroFive<br/>
-&nbsp;&nbsp;**stack**&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;React · TypeScript · FastAPI · .NET · Godot<br/>
-&nbsp;&nbsp;**grinding**&nbsp;→&nbsp;&nbsp;DSA / LeetCode, daily<br/>
-```
-└──────────────────────────────────────────────┘
-```
-
-</td></tr>
-</table>
 
 </div>
 
@@ -102,20 +95,37 @@
 
 <br/>
 
+### activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notdumbj&custom_title=Commit%20Activity&bg_color=0D1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=2c5364&hide_border=true" width="95%" />
+</div>
+
+<br/>
+
+### contribution snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/notdumbj/notdumbj/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</div>
+<p align="center"><sub>Animated snake eating my contribution graph — auto-updates daily via GitHub Actions. Setup file included below.</sub></p>
+
+<br/>
+
 ### connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/muhammad-jibran-8802322a5"><img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=B8B8FF" /></a>
-  <a href="https://twitter.com/mrchipsj"><img src="https://img.shields.io/badge/Twitter-302b63?style=for-the-badge&logo=twitter&logoColor=B8B8FF" /></a>
-  <a href="https://stackoverflow.com/users/24965221"><img src="https://img.shields.io/badge/Stack_Overflow-302b63?style=for-the-badge&logo=stack-overflow&logoColor=B8B8FF" /></a>
-  <a href="https://www.leetcode.com/notdumbj"><img src="https://img.shields.io/badge/LeetCode-302b63?style=for-the-badge&logo=leetcode&logoColor=B8B8FF" /></a>
-  <a href="mailto:mchips2000@gmail.com"><img src="https://img.shields.io/badge/Email-302b63?style=for-the-badge&logo=gmail&logoColor=B8B8FF" /></a>
+  <a href="https://linkedin.com/in/muhammad-jibran-8802322a5"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=64FFDA" /></a>
+  <a href="https://twitter.com/mrchipsj"><img src="https://img.shields.io/badge/Twitter-0f2027?style=for-the-badge&logo=twitter&logoColor=64FFDA" /></a>
+  <a href="https://stackoverflow.com/users/24965221"><img src="https://img.shields.io/badge/Stack_Overflow-0f2027?style=for-the-badge&logo=stack-overflow&logoColor=64FFDA" /></a>
+  <a href="https://www.leetcode.com/notdumbj"><img src="https://img.shields.io/badge/LeetCode-0f2027?style=for-the-badge&logo=leetcode&logoColor=64FFDA" /></a>
+  <a href="mailto:mchips2000@gmail.com"><img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=64FFDA" /></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=notdumbj&label=Profile%20Views&color=302b63&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=notdumbj&label=Profile%20Views&color=0f2027&style=for-the-badge" />
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
 </div>
