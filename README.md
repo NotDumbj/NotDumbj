@@ -90,9 +90,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=notdumbj&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=notdumbj&theme=tokyonight&row=1&column=6&margin-w=8&margin-h=8" />
-</div>
 
 <br/>
 
